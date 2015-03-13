@@ -1,0 +1,1 @@
+#http://stackoverflow.com/questions/7500448/simple-java-string-cache-with-expiration-possibility
